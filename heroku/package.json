@@ -4,7 +4,7 @@
   "dependencies": {
     "connect": "2.4.x",
     "send": "0.0.x",
-    "mime": "1.2.x"
+    "mime": "2.4.x"
   },
   "engines": {
     "node": "0.8.x",
