@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "dependencies": {
     "connect": "2.4.x",
-    "send": "0.0.x",
+    "send": "0.17.x",
     "mime": "1.2.x"
   },
   "engines": {
